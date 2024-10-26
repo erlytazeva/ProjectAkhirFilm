@@ -1,0 +1,34 @@
+.detail-container {
+    display: flex;
+    align-items: flex-start;
+    background-color: #141414;
+    color: white;
+    padding: 20px;
+    max-width: 1200px;
+    margin: 0 auto;
+  }
+  
+  .detail-poster img {
+    max-width: 350px;
+    border-radius: 10px;
+    margin-right: 30px;
+  }
+  
+  .detail-info {
+    max-width: 800px;
+  }
+  
+  .movie-title {
+    font-size: 36px;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  .movie-overview {
+    font-size: 18px;
+    line-height: 1.6;
+    margin-bottom: 20px;
+  }
+
+
+  
